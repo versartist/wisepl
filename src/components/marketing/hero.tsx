@@ -28,12 +28,24 @@ const Hero = () => {
                 </div>
             </Container>
             <BlurText
-                word={"Your ultimate social media\n marketing tool"}
+                word={"Wispel\n NLP Solutions"}
                 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl bg-gradient-to-br from-foreground to-foreground/60 bg-clip-text text-transparent py-2 md:py-0 lg:!leading-snug font-medium racking-[-0.0125em] mt-6 font-heading"
             />
             <Container delay={0.1}>
                 <p className="text-sm sm:text-base lg:text-lg mt-4 text-accent-foreground/60 max-w-2xl mx-auto">
-                    Elevate your social media presense with AI-powered content creation and scheduling. <span className="hidden sm:inline">Luro is the all-in-one solution for your social media marketing needs.</span>
+                Sentiment Annotation |
+
+Product Categorization |
+
+Document classification
+
+| Phonetic annotation |
+
+Entity linking |
+
+Entity Annotation |
+
+Semantic annotation <span className="hidden sm:inline">Training Dataset For AI Algorithms</span>
                 </p>
             </Container>
             <Container delay={0.2}>
